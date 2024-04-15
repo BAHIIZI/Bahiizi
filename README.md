@@ -7,7 +7,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bahiizi/configure-ad)
-  - [building intuition for DNS](https://github.com/bahiizi/azure-network-protocols)
+  - [building intuition for DNS](https://github.com/bahiizi/azure-AD-DNS)
 
 <h2>🤳Connect with me:</h2>
 
